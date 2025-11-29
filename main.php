@@ -149,7 +149,37 @@ function showHome() {
                 </div>
                 
                 <div class="contact-info">
+                    <div class="contact-card">
+                        <div class="contact-icon">🏪</div>
+                        <div class="contact-details">
+                            <h4>Alamat Toko</h4>
+                            <p>Jl. H.Paten, Tangerang Selatan</p>
+                        </div>
                     </div>
+                    <div class="contact-card">
+                        <div class="contact-icon">🕒</div>
+                        <div class="contact-details">
+                            <h4>Jam Operasional</h4>
+                            <p>Setiap Hari, 14:00 - 20:00 WIB</p>
+                        </div>
+                    </div>
+                    <div class="contact-card">
+                        <div class="contact-icon">📞</div>
+                        <div class="contact-details">
+                            <h4>Telepon</h4>
+                            <p>+62 896-5315-5023</p>
+                        </div>
+                    </div>
+                    <a href="https://www.instagram.com/beautiful.gurlch?igsh=YzZianlrb2lyMjN3" target="_blank" style="text-decoration: none;">
+                        <div class="contact-card">
+                            <div class="contact-icon">📱</div>
+                            <div class="contact-details">
+                                <h4>Instagram</h4>
+                                <p>@beautiful.gurlch</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
         </section>
     `;
